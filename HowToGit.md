@@ -1,5 +1,6 @@
 # How to set up and use Git
 
+Information for possible future members of the project.
 ## Setup
 
 * In the command line, move to the directory where you want to have a working copy of the eclipse workspace on the repository, most likely in your eclipse workspace directory.
